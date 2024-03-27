@@ -1,0 +1,9 @@
+N = 8
+BATCH_SIZE = 256
+NULL = -1
+WHITE = chr(1)
+BLACK = chr(2)
+BLOCKING = chr(3)
+DRAW = chr(3)
+NONE = chr(0)
+GOAL_SIZE = 5
